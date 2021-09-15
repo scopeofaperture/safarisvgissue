@@ -8,7 +8,7 @@
         <xhtml:object
            width="100%"
            type="image/svg+xml"
-           data="/second.svg" />
+           data="second.svg" />
       </xhtml:body>
     </foreignObject>
   </g>
